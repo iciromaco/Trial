@@ -3,4 +3,4 @@
 
 # Fork 
 
-右上の、Fork のボタンを押してからクローンして下さい。　<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width=40 >
+右上の、Fork のボタン　<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width=80 > を押してからクローンして下さい。
