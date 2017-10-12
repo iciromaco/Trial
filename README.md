@@ -3,6 +3,16 @@
 
 # 使い方
 
-## 1. Fork 
+# 前提
+- GitHub ユーザ登録済み
+- GitHub Desktop アプリをインストール済み。ログイン済み。
 
-最初に、右上の、Fork のボタン　<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width=80 > を押してからクローンして下さい。
+# Fork &amp; Clone
+
+1. ブラウザで https://github.com/aquapathos/Trial を開き、右上の **Fork** のボタンをクリック。
+2. Forking aquapathos/Trial という表示が出ますので、表示が変わるまで待つ。
+3. 表示が変わったら、緑色のボタン **Clone or Download** をクリック。
+4. **Open in Desktop**をクリック。
+5. GitHubDesktop アプリを開く。
+6. Clone a repository というダイアログが出る。一番下にクローンを保存するフォルダが示されている。変更したければ変更、そのままでよければそのままで **Clone** ボタンをクリック。
+
